@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black
+}
+h1{
+    color: #000005;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.common{
+    font-family:Arial, Helvetica, sans-serif;
+    position: absolute;
+    background-color: beige;
+}
+.top{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+.middle{
+    top: 50px;
+    left: 0px;
+    right: 0px;
+}
+/* .secondmiddle{
+    top: 400px;
+    left: 0px;
+    right: 0px;
+} */
+.bottom{
+    position:fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 1;
+    text-align: center;
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+.imgcenter{
+    display:block;
+    margin: auto;
+    border: lightgoldenrodyellow;
+}
+.backgroundcolor{
+    background-color: greenyellow !important
+}
